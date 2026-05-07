@@ -1,5 +1,5 @@
 require('dotenv').config();
-require('./src/db/init'); // Inicializa o banco
+require('./src/db/init'); // Inicializa o banco 
 
 const express = require('express');
 const cors = require('cors');
